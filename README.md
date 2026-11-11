@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @ahegelund
-- 👀 I’m interested in learning Python and random projects where I can build my skill sets
-- 🌱 I’m currently learning how to automate filling in forms using Python & Selenium
-- 💻 I am a professional cat herder 🐱 (Product Manager) and I'm looking for ways to do more with less through scripting / programming
